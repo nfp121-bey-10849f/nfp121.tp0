@@ -27,7 +27,7 @@ public class A
      */
     public int sampleMethod(int y)
     {
-        // Insérez votre code ici
+        int test;
         return x + y;
     }
 }
